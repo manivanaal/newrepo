@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A
 jdflsjdalfjsdl
 ldfjsladfj
@@ -5,3 +6,7 @@ ksjadfklsjda
 ksvjda;lkfjsa
 ljsaldkfj
 klljsdalfkjthis is first file
+=======
+this is first file
+this is second for undoing 
+>>>>>>> 12ac4a88c462d349d6edb36b2f287295fff16d2b
